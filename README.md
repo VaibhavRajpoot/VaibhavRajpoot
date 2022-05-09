@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaibhavRajpoot
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning Robot Operating System (ROS)
 - 💞️ I’m looking to collaborate on gsoc
 - 📫 How to reach me vaibhavrajpoot46@gmail.com
 
