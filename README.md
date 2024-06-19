@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **vaibhavrajpoot46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ScW0_x_vQTv5P7peVk6DfPA4msJAbpU_/view?usp=share_link](https://drive.google.com/file/d/1ScW0_x_vQTv5P7peVk6DfPA4msJAbpU_/view?usp=share_link)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1B3zcUH-4MmWewuFfW0E2qZLzxUZixWzQ/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav singh rajpoot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav singh rajpoot" height="30" width="40" /></a>
