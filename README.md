@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **vaibhavrajpoot46@gmail.com**
 
+- 👨‍💻 All of my projects are available at [https://linktr.ee/vaibhav_rajpoot]
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B3zcUH-4MmWewuFfW0E2qZLzxUZixWzQ/view](https://drive.google.com/file/d/1B3zcUH-4MmWewuFfW0E2qZLzxUZixWzQ/view)
 
 <h2 align="left">Connect with me:</h2>
