@@ -31,8 +31,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavrajpoot&" alt="vaibhavrajpoot" /></p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaibhavRajpoot&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+<h2 align="left">📫 How to reach me?</h2>
+⦿ Visit my Website 🌐
+⦿ Follow me on Kaggle👁️
+⦿ Connect with me on LinkedIn 👨🏻‍💻
+⦿ Follow me on Twitter 🐦
+⦿ Shoot Me an Email 💌
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
