@@ -35,3 +35,10 @@
 
 <h2 align="left">✍️ Random Dev Quote:</h2>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+---
+[![](https://visitcount.itsvg.in/api?id=VaibhavRajpoot&icon=0&color=0)](https://visitcount.itsvg.in)
