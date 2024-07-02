@@ -30,15 +30,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavrajpoot&" alt="vaibhavrajpoot" /></p>
 
-<h2 align="left">🏆 GitHub Trophies:</h2>
+
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VaibhavRajpoot&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-<h2 align="left">✍️ Random Dev Quote:</h2>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavRajpoot&icon=0&color=0)](https://visitcount.itsvg.in)
+
